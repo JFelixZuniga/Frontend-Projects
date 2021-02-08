@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Landing Page whith Animation</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header>
+      <nav class="main-nav">
+        <div class="logo">
+          <a href="./index.html">Santiago</a>
+        </div>
+        <div class="hamburger-menu">
+          <span class="bar"></span>
+        </div>
+        <ul class="nav-list">
+          <li class="nav-item">
+            <a href="#" class="nav-link">Home</a>
+          </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link">Tours</a>
+          </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link">Pricing</a>
+          </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link">Locations</a>
+          </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link">About</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+
+    <section class="hero">
+      <div class="hero-clipped">
+        <div class="hero-textbox">
+          <h1 class="main-heading">Santiago</h1>
+          <h2 class="sub-heading">
+            Learn about our awesona tourist attractions
+            <a href="" class="cta-btn">Learn more</a>
+          </h2>
+        </div>
+      </div>
+    </section>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.0/gsap.min.js"></script>
+    <script>
+      const mainNav = document.querySelector(".main-nav");
+      const hamburgerMenu = document.querySelector(".hamburger-menu");
+
+      hamburgerMenu.addEventListener("click", function () {
+        mainNav.classList.toggle("open");
+      });
+
+      gsap.fromTo(".hero-clipped", { scaleX: 0 }, { duration: 1, scaleX: 1 });
+      gsap.fromTo(
+        ".logo",
+        { x: -200, opacity: 0 },
+        { duration: 1, delay: 0.5, x: 0, opacity: 1 }
+      );
+      gsap.fromTo(
+        ".hamburger-menu",
+        { x: 200, opacity: 0 },
+        { duration: 1, delay: 0.8, x: 0, opacity: 1 }
+      );
+      gsap.fromTo(
+        ".hero-textbox",
+        { yPercent: 40, opacity: 0 },
+        { duration: 1, delay: 1.3, yPercent: -50, opacity: 1 }
+      );
+    </script>
+  </body>
+</html>

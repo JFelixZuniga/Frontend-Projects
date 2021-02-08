@@ -9,4 +9,4 @@
 
 ## Proyectos:
 
-1. **Landing Page with GSAP Animations** - [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/Landing-Page-animation)
+1. **Landing Page with GSAP Animations** - [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/Landing-Page-animation/)

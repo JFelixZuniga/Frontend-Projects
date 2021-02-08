@@ -5,7 +5,7 @@
    <br>
 </h1>
 
-## Repositorio con proyectos de desarrollo fronted
+## Repositorio con proyectos de desarrollo Front End
 
 ## Proyectos:
 

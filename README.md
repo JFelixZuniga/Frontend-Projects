@@ -10,3 +10,4 @@
 ## Proyectos:
 
 1. **Landing Page with GSAP Animations** - [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/Landing-Page-animation/)
+2. **Responsive Vertical Timeline** - [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/Timeline/)

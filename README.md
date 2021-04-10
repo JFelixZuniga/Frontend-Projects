@@ -11,3 +11,4 @@
 
 1. **Landing Page with GSAP Animations** - [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/Landing-Page-animation/)
 2. **Responsive Vertical Timeline** - [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/Timeline/)
+3. **Landing Page with Tailwind** - [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/Super-Mario-World-Tailwind/)

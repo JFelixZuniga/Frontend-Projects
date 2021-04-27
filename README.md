@@ -13,3 +13,4 @@
 2. **Responsive Vertical Timeline** - [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/Timeline/)
 3. **Landing Page with Tailwind** - [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/Super-Mario-World-Tailwind/)
 4. **Toggle Button | Dark and Light Mode** - [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/ToggleButton-DarkMode/)
+5. **CSS 3D Text Animation Effects** - [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/3D-Text-Animation/)

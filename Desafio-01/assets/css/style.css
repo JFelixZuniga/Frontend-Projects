@@ -6,13 +6,20 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  font-family: open sans;
+  font-family: "Open Sans", sans-serif;
 }
 a {
   text-decoration: none;
 }
 img {
   max-width: 100%;
+  border-radius: 5px;
+}
+h2 {
+  font-size: 45px;
+}
+h3 {
+  font-size: 40px;
 }
 /* NAV */
 .oscuro {
@@ -38,7 +45,6 @@ img {
 header {
   width: 100%;
   height: 420px;
-  /* margin-top: 50px; */
 }
 .hero-section {
   background-image: url(../img/bg-hero.png);
@@ -56,6 +62,10 @@ header {
   max-width: 800px;
   text-align: end;
   font-size: 45px;
+}
+.subtitulo {
+  font-size: 30px;
+  font-weight: 400;
 }
 .hero-section h1,
 .hero-section h2 {
@@ -100,12 +110,6 @@ header {
   height: 320px;
   color: white;
 }
-.charla-texto h2 {
-  font-size: 45px;
-}
-.charla-texto h3 {
-  font-size: 40px;
-}
 .charla-texto h4 {
   font-size: 33px;
   font-weight: 400;
@@ -128,9 +132,6 @@ header {
   justify-content: center;
   align-items: center;
   gap: 60px;
-}
-#eventos h2 {
-  font-size: 45px;
 }
 .card-evento {
   display: flex;
@@ -164,7 +165,6 @@ header {
   padding: 100px 0;
 }
 .simposio h2 {
-  font-size: 45px;
   padding: 50px 0;
 }
 .simposio img {

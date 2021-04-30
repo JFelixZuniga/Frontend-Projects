@@ -15,4 +15,4 @@
 4. **Toggle Button | Dark and Light Mode** - [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/ToggleButton-DarkMode/)
 5. **CSS 3D Text Animation Effects** - [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/3D-Text-Animation/)
 6. **Basic Landing Page** - [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/Desafio-01/)
-7. **Basic Landing Page 3 - Iguana Page** - [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/Desafio-02/)
+7. **Basic Landing Page 2 - Iguana Page** - [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/Desafio-02/)

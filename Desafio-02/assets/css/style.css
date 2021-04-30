@@ -45,7 +45,13 @@ main {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
+  gap: 30px;
   height: 100%;
+}
+@media screen and (max-width: 900px) {
+  .main {
+    justify-content: center;
+  }
 }
 .main-texto {
   color: var(--blanco);
@@ -70,6 +76,11 @@ main .main-img {
   text-align: center;
   font-size: 40px;
   font-weight: var(--media);
+}
+@media (max-width: 500px) {
+  .carac-section h2 {
+    font-size: 30px;
+  }
 }
 .lista-item {
   display: flex;
@@ -99,11 +110,17 @@ main .main-img {
   justify-content: space-between;
   gap: 20px;
 }
-.lista-galeria img {
-  max-width: 33.3%;
-  min-width: 250px;
+@media screen and (max-width: 900px) {
+  .lista-galeria {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
 }
-/* Footer */
+.lista-galeria img {
+  max-width: 33%;
+  min-width: 300px;
+}
+/* FOOTER */
 .footer {
   background-color: var(--cafe);
   text-align: center;

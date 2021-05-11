@@ -9,19 +9,10 @@
 
 ## Proyectos:
 
-1. **Landing Page with GSAP Animations** - [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/Landing-Page-animation/)
-2. **Responsive Vertical Timeline** - [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/Timeline/)
-3. **Landing Page with Tailwind** - [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/Super-Mario-World-Tailwind/)
-4. **Toggle Button | Dark and Light Mode** - [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/ToggleButton-DarkMode/)
-5. **CSS 3D Text Animation Effects** - [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/3D-Text-Animation/)
-6. **Basic Landing Page** - [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/Desafio-01/)
-7. **Basic Landing Page 2 - Iguana Page** - [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/Desafio-02/)
-8. **Basic Landing Page 3 (Bootstrap) - Suricata** - [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/Desafio-03/)
-9. **Basic Landing Page 4 (Bootstrap) - Cupon** - [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/Desafio-04/)
-
-| Proyecto                              | Descripción                      |                                                                                                      |                                                                                              |
-| ------------------------------------- | -------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| **Landing Page with GSAP Animations** | Landing page utilizando GSAP     | [Ver Código](https://github.com/JFelixZuniga/Frontend-Projects/tree/gh-pages/Landing-Page-animation) | [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/Landing-Page-animation/)     |
-| **Responsive Vertical Timeline**      | Línea de tiempo responsiva       | [Ver Código](https://github.com/JFelixZuniga/Frontend-Projects/tree/gh-pages/Timeline)               | [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/Timeline/)                   |
-| **Landing Page with Tailwind**        | Landing page utilizando Tailwind | [Ver Código](https://github.com/JFelixZuniga/Super-Mario-World)                                      | [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/Super-Mario-World-Tailwind/) |
-| **Responsive Vertical Timeline**      | Línea de tiempo responsiva       | [Ver Código](https://github.com/JFelixZuniga/Frontend-Projects/tree/gh-pages/Timeline)               | [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/Timeline/)                   |
+| Proyecto                                | Descripción                               |                                                                                                      |                                                                                              |
+| --------------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| **Landing Page with GSAP Animations**   | Landing page utilizando GSAP              | [Ver Código](https://github.com/JFelixZuniga/Frontend-Projects/tree/gh-pages/Landing-Page-animation) | [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/Landing-Page-animation/)     |
+| **Responsive Vertical Timeline**        | Línea de tiempo responsiva                | [Ver Código](https://github.com/JFelixZuniga/Frontend-Projects/tree/gh-pages/Timeline)               | [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/Timeline/)                   |
+| **Landing Page with Tailwind**          | Landing page utilizando Tailwind          | [Ver Código](https://github.com/JFelixZuniga/Super-Mario-World)                                      | [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/Super-Mario-World-Tailwind/) |
+| **Toggle Button - Dark and Light Mode** | Toggle Button con activación de dark mode | [Ver Código](https://github.com/JFelixZuniga/Frontend-Projects/tree/gh-pages/ToggleButton-DarkMode)  | [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/ToggleButton-DarkMode/)      |
+| **CSS 3D Text Animation Effects**       | Línea de tiempo responsiva                | [Ver Código](https://github.com/JFelixZuniga/Frontend-Projects/tree/gh-pages/3D-Text-Animation)      | [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/3D-Text-Animation//)         |
